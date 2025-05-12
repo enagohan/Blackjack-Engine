@@ -1,0 +1,43 @@
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Build output
+bin/
+target/
+build/
+
+# Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle
+.gradle/
+
+# Logs and crash reports
+*.log
+hs_err_pid*
+replay_pid*
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# OS-specific
+.DS_Store
+Thumbs.db
