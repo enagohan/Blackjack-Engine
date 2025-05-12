@@ -1,5 +1,35 @@
-# Compiled class file
-*.class
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Build output
+bin/
+target/
+
+# Maven
+*.log
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle
+.gradle/
+build/
+
+# Package Files
+*.jar
+*.war
+*.ear
+
+# Virtual machine crash logs
+hs_err_pid*
+
+# OS-specific
+.DS_Store
+Thumbs.db
 
 # Log file
 *.log
